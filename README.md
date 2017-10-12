@@ -1,14 +1,4 @@
 # React Brasil Docs 
-A idéia deste repositório é conter material traduzido para guiar o estudo de iniciantes no desenvolvimento utilizando React
-
-### Documentação Oficial
-
-## Installation
-React is flexible and can be used in a variety of projects. You can create new apps with it, but you can also gradually introduce it into an existing codebase without doing a rewrite.
-Here are a couple of ways to get started:
-Try React
-Create a New App# React Brasil Docs 
-
 A idéia deste repositório é: Conter material traduzido para guiar o estudo de iniciantes no desenvolvimento com React
 
 ### Documentação Oficial
