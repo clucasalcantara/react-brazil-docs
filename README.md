@@ -27,7 +27,7 @@ cd my-app
 npm start
 ```
 
-If you have npm 5.2.0+ installed, you may use npx instead.
+Caso você tenha o npm 5.2.0+ instalado você pode usar o `npx` no lugar do npm.
 ```
 npx create-react-app my-app
 
